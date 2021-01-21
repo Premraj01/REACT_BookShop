@@ -1,0 +1,12 @@
+/** @format */
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+.avatar-img {
+  width: 25px;
+  height: 25px;
+}
