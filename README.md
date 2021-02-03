@@ -1,7 +1,7 @@
 
 ### Book Shop
 
-_Live App_:https://amazing-jones-c1a1f9.netlify.app/
+_Live App_:https://bookshopp.netlify.app/
 
 
 ![1show_books_btn](https://user-images.githubusercontent.com/41430322/105349151-4f527180-5c0f-11eb-944c-ff77f3f2e1a1.JPG)
